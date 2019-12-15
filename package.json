@@ -1,0 +1,16 @@
+{
+  "name": "containertest",
+  "version": "1.0.0",
+  "description": "simple express server",
+  "main": "server.js",
+  "repository": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "joey whelan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
